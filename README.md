@@ -1,2 +1,2 @@
-# Default-Password-
+# Default-Credentials-
 Default Password Apache Tomcat
